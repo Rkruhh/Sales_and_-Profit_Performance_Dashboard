@@ -6,6 +6,8 @@ An interactive, single-file HTML dashboard that turns 9,994 US retail order line
 
 <img width="2940" height="1702" alt="image" src="https://github.com/user-attachments/assets/3976c5aa-4e51-4953-9fc6-2cdff356f753" />
 
+**🔗 Live demo**
+https://rkruhh.github.io/Sales_and_-Profit_Performance_Dashboard/
 
 **✨ Features**
 
@@ -63,3 +65,14 @@ Format the provided data section into a clean, professional Markdown table to en
 | **Order Lines / Unique Orders** | 9,994 / 5,009 |
 | **Unique Customers** | 793 |
 | **Data Structure** | 4 regions, 3 segments, 3 categories, 17 sub-categories, 4 ship modes |
+
+
+### 🚀 Quick Start
+
+This project requires no build process or server configuration. Simply clone the repository and open the file locally:
+
+```bash
+git clone <your-repo-url>
+cd <your-repo>
+open index.html # Alternatively, double-click the file to open it in your browser.
+```
